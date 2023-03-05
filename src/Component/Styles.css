@@ -1,0 +1,41 @@
+.FetchAPIDiv {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.hooked {
+    background-color: rgb(53, 52, 52);
+    padding: 20px;
+    color: white;
+}
+
+.inputField {
+    width: 40%;
+    height: auto;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.SubmitBtn {
+    width: 10%;
+    padding: 20px;
+}
+
+.para {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.DMain {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    flex-wrap: wrap;
+}
+
+.Image {
+    width: 250px;
+    height: auto;
+}
